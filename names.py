@@ -1,3 +1,4 @@
 name = 'Added some text' 
-nameArray = [aarav,yash]
+nameArray = [Aarav,yash]
+yash = ['This is yash']
 aarav = "My favourite game is GTAV"
